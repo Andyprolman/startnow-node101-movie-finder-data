@@ -1,0 +1,1 @@
+this server accepts a movie id or title request and returns information from that movie using the omdb api
